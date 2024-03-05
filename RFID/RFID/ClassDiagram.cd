@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CAboutDlg" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="CAboutDlg::__unnamed_enum_040d_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>RFIDDlg.cpp</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAABAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RFIDDlg.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CRFIDApp" Collapsed="true">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>RFID.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CRFIDDlg">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="CRFIDDlg::__unnamed_enum_040e_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>RFIDDlg.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>kACBAKEBUAgBAAAJAFAEAAgBAgIEAZUQCZABEUCQFAg=</HashCode>
+      <FileName>RFIDDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Typedef Name="type_is_SetTimeOut" Collapsed="true">
+    <Position X="3" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>is_d2xx.cpp</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="type_is_GetTimeOut" Collapsed="true">
+    <Position X="6.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>is_d2xx.cpp</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="type_is_GetDeviceNumber" Collapsed="true">
+    <Position X="10" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>is_d2xx.cpp</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="type_is_GetSerialNumber" Collapsed="true">
+    <Position X="4.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>is_d2xx.cpp</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="type_is_GetDescription" Collapsed="true">
+    <Position X="8.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>is_d2xx.cpp</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="type_is_OpenSerialNumber" Collapsed="true">
+    <Position X="10" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>is_d2xx.cpp</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="type_is_Close" Collapsed="true">
+    <Position X="3" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>is_d2xx.cpp</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="type_is_OpenDescription" Collapsed="true">
+    <Position X="8.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>is_d2xx.cpp</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="type_is_SetSerialNumber" Collapsed="true">
+    <Position X="10" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>is_d2xx.cpp</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="type_is_GetFTDIDriverType" Collapsed="true">
+    <Position X="3" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>is_d2xx.cpp</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="type_is_SetFTDIDriverType" Collapsed="true">
+    <Position X="8.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>is_d2xx.cpp</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="type_is_SetDriverType" Collapsed="true">
+    <Position X="6.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>is_d2xx.cpp</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="type_is_GetCOMPort" Collapsed="true">
+    <Position X="4.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>is_d2xx.cpp</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="type_is_GetCOMPort_NoConnect" Collapsed="true">
+    <Position X="6.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>is_d2xx.cpp</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="type_is_WriteCommand" Collapsed="true">
+    <Position X="4.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>is_d2xx.cpp</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="type_is_WriteReadCommand" Collapsed="true">
+    <Position X="6.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>is_d2xx.cpp</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="type_is_ReadCommand" Collapsed="true">
+    <Position X="3" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>is_d2xx.cpp</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="type_is_ReadExCommand" Collapsed="true">
+    <Position X="4.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>is_d2xx.cpp</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="PVOID" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>is_d2xx.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="IS_HANDLE" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>is_d2xx.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Enum Name="__unnamed_enum_0403_1" Collapsed="true">
+    <Position X="3" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAQgAgAAIAAAiAQIAAgAABABBgAAAwAAICACQBAEAA=</HashCode>
+      <FileName>is_d2xx.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="맑은 고딕" Size="9" />
+</ClassDiagram>

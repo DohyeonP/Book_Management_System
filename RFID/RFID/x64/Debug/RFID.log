@@ -1,0 +1,16 @@
+﻿  pch.cpp
+  is_d2xx.cpp
+  RFID.cpp
+  RFIDDlg.cpp
+C:\Users\kcci\Desktop\RFID_FINAL\RFID\RFID\RFIDDlg.cpp(578,27): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'CStringA'입니다.
+C:\Users\kcci\Desktop\RFID_FINAL\RFID\RFID\RFIDDlg.cpp(654,26): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'CStringA'입니다.
+C:\Users\kcci\Desktop\RFID_FINAL\RFID\RFID\RFIDDlg.cpp(677,26): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'CStringA'입니다.
+C:\Users\kcci\Desktop\RFID_FINAL\RFID\RFID\RFIDDlg.cpp(677,26): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'CStringA'입니다.
+C:\Users\kcci\Desktop\RFID_FINAL\RFID\RFID\RFIDDlg.cpp(677,26): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'CStringA'입니다.
+C:\Users\kcci\Desktop\RFID_FINAL\RFID\RFID\RFIDDlg.cpp(677,26): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 4의 형식이 'CStringA'입니다.
+C:\Users\kcci\Desktop\RFID_FINAL\RFID\RFID\RFIDDlg.cpp(677,26): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 5의 형식이 'CStringA'입니다.
+C:\Users\kcci\Desktop\RFID_FINAL\RFID\RFID\RFIDDlg.cpp(677,26): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 6의 형식이 'CStringA'입니다.
+C:\Users\kcci\Desktop\RFID_FINAL\RFID\RFID\RFIDDlg.cpp(677,26): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 7의 형식이 'CStringA'입니다.
+  코드를 생성하고 있습니다...
+RFIDDlg.obj : warning LNK4258: '/ENTRY:WinMainCRTStartup' 지시문은 '/ENTRY:wWinMainCRTStartup' 스위치와 호환되지 않습니다. 무시됩니다.
+  RFID.vcxproj -> C:\Users\kcci\Desktop\RFID_FINAL\RFID\x64\Debug\RFID.exe
